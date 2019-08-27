@@ -29,4 +29,4 @@ Para codificar los audios en un formato compatible con Alexa, es necesario usar 
 ## Licencia
 
 By [@findemor](http://twitter.com/findemor)
-Consultar [Licencia y Políticas](resources/DCSKILLSOUNDS001.htm)
+Consultar [Licencia y Políticas](resources/DCSKILLIGNATIUS001.htm)
