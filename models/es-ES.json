@@ -1,0 +1,371 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "boca de ignatius",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "PlaySoundIntent",
+                    "slots": [
+                        {
+                            "name": "category",
+                            "type": "CATEGORY"
+                        }
+                    ],
+                    "samples": [
+                        "Reproduce un sonido cualquiera",
+                        "Di un sonido",
+                        "Haz una voz",
+                        "Di una frase",
+                        "Dí un sonido",
+                        "Dí una frase",
+                        "Dime una frase",
+                        "Reproduce un sonido",
+                        "Reproduce una frase",
+                        "Reproduce una frase aleatoria",
+                        "saca el {category}",
+                        "saca {category}",
+                        "pon el {category}",
+                        "pon {category}",
+                        "Reproduce un audio de {category}",
+                        "Reproduce la voz de {category}",
+                        "Pon un audio de {category}",
+                        "Sonido de {category}",
+                        "Frases de {category}",
+                        "Pon la voz de {category}",
+                        "Haz el {category}",
+                        "Haz {category}",
+                        "Di {category}",
+                        "Di el {category}",
+                        "Dí {category}",
+                        "Dí el {category}",
+                        "{category}",
+                        "Dime {category}",
+                        "Dime el {category}",
+                        "Dinos {category}",
+                        "Dínos {category}",
+                        "Imita {category}",
+                        "Imita el {category}",
+                        "Pon un sonido de {category}",
+                        "Haz un sonido de {category}",
+                        "Dí una frase de {category}",
+                        "Pon una frase de {category}",
+                        "Frase de {category}",
+                        "Voz de {category}",
+                        "Reproduce una frase de {category}",
+                        "Haz sonar a {category}",
+                        "Reproduce {category}",
+                        "Haz sonar {category}",
+                        "Reproduce un sonido de {category}",
+                        "Reproduce un sonido {category}",
+                        "Di algo de {category}",
+                        "Dime algo de {category}"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                }
+            ],
+            "types": [
+                {
+                    "name": "CATEGORY",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "whatatime",
+                                "synonyms": [
+                                    "guat a taim to be alive",
+                                    "what a time to be alive",
+                                    "what a time",
+                                    "guat a time"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "todo",
+                                "synonyms": [
+                                    "cualquier",
+                                    "aleatoria",
+                                    "aleatorio",
+                                    "cualquiera",
+                                    "farray",
+                                    "ignatius farray",
+                                    "ignatius"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "spontiak",
+                                "synonyms": [
+                                    "spontiac",
+                                    "espontiac",
+                                    "espontiak",
+                                    "spontiak"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "sirarchibald",
+                                "synonyms": [
+                                    "archibald",
+                                    "personaje sir archibald",
+                                    "sir archibald"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "risa",
+                                "synonyms": [
+                                    "reirse",
+                                    "risas",
+                                    "riete",
+                                    "risa"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "rikidiki",
+                                "synonyms": [
+                                    "rikidikichow",
+                                    "rikitiquichow",
+                                    "riki tiki chow",
+                                    "riqui tiki show",
+                                    "riqui diqui",
+                                    "riqui tiqui",
+                                    "riki tiki",
+                                    "riki diki",
+                                    "rikidiki",
+                                    "rikidiki show",
+                                    "rikitikichow",
+                                    "rikitikishow"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "padrestenerife",
+                                "synonyms": [
+                                    "tiñerfeños miopes",
+                                    "tinerfeño miope",
+                                    "padre separado",
+                                    "padre separado tinerfeño",
+                                    "padres separados tinerfeños miopes"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "padre",
+                                "synonyms": [
+                                    "padre hazme el amor",
+                                    "padre hagame el amor",
+                                    "padre"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "mrchaman",
+                                "synonyms": [
+                                    "comedy is like a big black dick",
+                                    "chaman",
+                                    "misterchaman",
+                                    "mister chaman"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "meme",
+                                "synonyms": [
+                                    "memes",
+                                    "frases tipicas",
+                                    "meme",
+                                    "frase tipica"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "indibiginin",
+                                "synonyms": [
+                                    "indi dibiginin",
+                                    "in di biginin",
+                                    "in the beginning",
+                                    "indibiginin"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "hombremayor",
+                                "synonyms": [
+                                    "hombre mayor",
+                                    "ese hombre mayor",
+                                    "hombre mayor ahi",
+                                    "ese hombre mayor ahi"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "gritosordo",
+                                "synonyms": [
+                                    "sordo",
+                                    "grito",
+                                    "gritos sordos",
+                                    "grito sordo"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "entretenme",
+                                "synonyms": [
+                                    "payaso",
+                                    "entretenme",
+                                    "entretenme payaso",
+                                    "entreténme payaso"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "enfadado",
+                                "synonyms": [
+                                    "cabreo",
+                                    "cabreado",
+                                    "enfado",
+                                    "enfadado"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "elvis",
+                                "synonyms": [
+                                    "me llamo elvis canario",
+                                    "soy el elvis canario",
+                                    "da la casualidad",
+                                    "y da la casualidad",
+                                    "la casualidad",
+                                    "elvis",
+                                    "elvis canario",
+                                    "el elvis canario"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ecuador",
+                                "synonyms": [
+                                    "jijijiji",
+                                    "jiji",
+                                    "jijijii",
+                                    "venimos de ecuador",
+                                    "ecuador"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "cristina",
+                                "synonyms": [
+                                    "carita",
+                                    "la carita",
+                                    "cristina"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "coros",
+                                "synonyms": [
+                                    "corear",
+                                    "coreando",
+                                    "coros"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "coomo",
+                                "synonyms": [
+                                    "como"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "comedy",
+                                "synonyms": [
+                                    "la comedia",
+                                    "comedy",
+                                    "commedy",
+                                    "comedi"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "canarias",
+                                "synonyms": [
+                                    "canarios arios",
+                                    "canarias"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "calvario",
+                                "synonyms": [
+                                    "esto es un calvario",
+                                    "un calvario",
+                                    "qué calvario estoy viviendo",
+                                    "qué calvario estoy pasando",
+                                    "qué calvario",
+                                    "que calvario",
+                                    "que calvario estoy viviendo",
+                                    "que calvario estoy pasando",
+                                    "ay dios mio que calvario",
+                                    "ay dios mio",
+                                    "calvario"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "allright",
+                                "synonyms": [
+                                    "olraigt",
+                                    "olright",
+                                    "olrig",
+                                    "alright",
+                                    "allright",
+                                    "all right"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

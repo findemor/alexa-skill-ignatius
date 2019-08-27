@@ -1,0 +1,5 @@
+{
+  "env": {
+    "S3_CONTAINER": "https://s3-eu-west-1.amazonaws.com/xxxxxxxx.sounds"
+  }
+}
