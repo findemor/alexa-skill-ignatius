@@ -1,8 +1,8 @@
-# Alexa Skill: Dota 2 Sounds
+# Alexa Skill: La boca de Ignatius
 
 Ejemplo de implementación de una skill a la que le podemos pedir que reproduzca sonidos de una categoria, y reproducirá como respuesta uno de ellos aleatoriamente.
 
-![Image](resources/imgs/logo-en.png)
+![Image](resources/imgs/logo512.png)
 
 ## Configuración
 
