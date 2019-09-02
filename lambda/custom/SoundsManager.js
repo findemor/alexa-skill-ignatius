@@ -29,7 +29,7 @@ const soundsCategories = {
   whatatime:1,
 };
 
-const DEFAULT_CATEGORY = "others";
+const DEFAULT_CATEGORY = "todo";
 
 class SoundsManager {
   constructor() {

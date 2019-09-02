@@ -48,7 +48,7 @@ class I18n {
         "es": "La boca de Ignatius",
       },
       "AskSound": {
-        "es": "A ver si sabes qué es esto: ",
+        "es": "",
       },
       "Reprompt": {
         "es": "Pídeme que reproduzca otra frase.",
@@ -73,6 +73,12 @@ class I18n {
       },
       "Fallback": {
         "es": "Lo siento, no te he entendido. Pideme un sonido diciendo: Reproduce un sonido aleatorio. Pídeme ayuda para conocer más comandos.",
+      },
+      "hintTry": {
+        "es": "Prueba diciendo: \"Reproduce una frase ",
+      },
+      "todo": {
+        "es": "cualquiera",
       },
     }
   }

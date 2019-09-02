@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "boca de ignatius",
+            "invocationName": "la boca de ignatius",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
@@ -24,6 +24,9 @@
                         }
                     ],
                     "samples": [
+                        "Hazme {category}",
+                        "Hazme el {category}",
+                        "Di una frase de {category}",
                         "Reproduce un sonido cualquiera",
                         "Di un sonido",
                         "Haz una voz",
