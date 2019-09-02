@@ -333,13 +333,13 @@
                 "largeSourceUrl": null,
                 "sources": [
                     {
-                        "url": "https://s3-eu-west-1.amazonaws.com/alexa.skill.fornite/apl_interface/background.png",
+                        "url": "https://s3-eu-west-1.amazonaws.com/alexa.skill.ignatius/background.png",
                         "size": "small",
                         "widthPixels": 0,
                         "heightPixels": 0
                     },
                     {
-                        "url": "https://s3-eu-west-1.amazonaws.com/alexa.skill.fornite/apl_interface/background.png",
+                        "url": "https://s3-eu-west-1.amazonaws.com/alexa.skill.ignatius/background.png",
                         "size": "large",
                         "widthPixels": 0,
                         "heightPixels": 0
@@ -347,7 +347,7 @@
                 ]
             },
             "title": "Results for \"Cow's Milk Cheese\"",
-            "logoUrl": "https://s3-eu-west-1.amazonaws.com/alexa.skill.fornite/apl_interface/icon.png"
+            "logoUrl": "https://s3-eu-west-1.amazonaws.com/alexa.skill.ignatius/icon.png"
         },
         "listTemplate2ListData": {
             "type": "list",
@@ -375,13 +375,13 @@
                             "largeSourceUrl": null,
                             "sources": [
                                 {
-                                    "url": "https://s3-eu-west-1.amazonaws.com/alexa.skill.fornite/apl_interface/build.png",
+                                    "url": "https://s3-eu-west-1.amazonaws.com/alexa.skill.ignatius/gritosordo.png",
                                     "size": "small",
                                     "widthPixels": 0,
                                     "heightPixels": 0
                                 },
                                 {
-                                    "url": "https://s3-eu-west-1.amazonaws.com/alexa.skill.fornite/apl_interface/build.png",
+                                    "url": "https://s3-eu-west-1.amazonaws.com/alexa.skill.ignatius/gritosordo.png",
                                     "size": "large",
                                     "widthPixels": 0,
                                     "heightPixels": 0

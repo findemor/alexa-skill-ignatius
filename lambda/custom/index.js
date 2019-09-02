@@ -22,8 +22,8 @@ function fillDataSource(i18n, datasources, chosenCategory) {
 
   for(let i = 0; i < datasources.listTemplate2ListData.listPage.listItems.length; i++) {
     let listItemCategory = datasources.listTemplate2ListData.listPage.listItems[i].token;
-    datasources.listTemplate2ListData.listPage.listItems[i].textContent.primaryText.text = i18n.getResource({ key: listItemCategory });;
-    datasources.listTemplate2ListData.listPage.listItems[i].textContent.secondaryText.text = i18n.getResource({ key: listItemCategory });;
+    datasources.listTemplate2ListData.listPage.listItems[i].textContent.primaryText.text = "Pulsa la boca."//i18n.getResource({ key: listItemCategory });;
+    datasources.listTemplate2ListData.listPage.listItems[i].textContent.secondaryText.text = "Pulsa la boca."//i18n.getResource({ key: listItemCategory });;
   }
 }
 
@@ -141,7 +141,7 @@ const PlaySoundIntentHandler = {
         && request.intent.slots
         && request.intent.slots.category 
         && request.intent.slots.category.resolutions) {
-          category = handlerInput.requestEnvelope.request.intent.slots.category.resolutions.resolutionsPerAuthority[0].values[0].value.id;
+          category = handlerInput.requestEnvelope.request.intent.slots.category.resolutions.resolutionsPerAuthority[0].values[0].value.name;
           value = handlerInput.requestEnvelope.request.intent.slots.category.value;
         }
     } catch (err) {

@@ -54,7 +54,7 @@ class I18n {
         "es": "Pídeme que reproduzca otra frase.",
       },
       "Minireprompt": {
-        "es": [ "¿otro?", "elige otro", "pídeme otro"]
+        "es": [ "pide otra", "elige otra", "pídeme otra"]
       },
       "Playing": {
         "es": "Reproduciendo: ",
